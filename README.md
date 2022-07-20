@@ -43,15 +43,15 @@ SIG组长负责本兴趣小组的运营和治理，计划招募3-5个联席组�
 - 测试技术探索项目（待测试SIG例会讨论立项）
 
 所辖项目列表如下：
-- CICD（TODO）
-  - 简介：社区CICD系统开发维护项目
+- CICD
+  - 简介：社区CICD系统开发维护项目：https://docs.qq.com/doc/DRXl1U2FSZEl3SnRT
   - 负责人：吴德胜
-  - 代码仓：https://github.com/OpenCloudOS/CICD.git
+  - 代码仓：https://gitee.com/opencloudos-stream/cicd.git
 - OpenCloudOS-IV（TODO）
   - 简介：OpenCloudOS集成验证（Integrated Verification）项目
   - 负责人：温业海
-  - 代码仓：https://github.com/OpenCloudOS/OpenCloudOS-IV.git
+  - 代码仓：https://gitee.com/opencloudos-stream/test-ltp-full.git
 - OpenCloudOS-HCT（TODO）
   - 简介：OpenCloudOS硬件兼容性测试（Hardware Compatibility Testing）项目
   - 负责人：吴德胜
-  - 代码仓：https://github.com/OpenCloudOS/OpenCloudOS-HCT.git
+  - 代码仓：https://gitee.com/opencloudos-stream/oc-hct.git
