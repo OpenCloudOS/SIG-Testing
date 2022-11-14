@@ -29,7 +29,7 @@ SIG组长负责本兴趣小组的运营和治理，计划招募3-5个联席组�
 ## 会议制度 Meetings
 本兴趣小组的邮件列表会即时公布本小组的各项会议的具体细节。欢迎订阅我们的邮件列表。
 - 例会
-  - 双周例会，每双周三14:30，腾讯会议：569-8345-0074，或点击链接入会：https://meeting.tencent.com/dm/jsDJbMXRPbk0
+  - 双周例会，每双周三14:30，腾讯会议：312-5348-7417，或点击链接入会：https://meeting.tencent.com/dm/4z8fudMtpPp4
 
 ## 如何加入发布SIG并参与贡献：
 1. 注册GitHub账号
@@ -47,11 +47,11 @@ SIG组长负责本兴趣小组的运营和治理，计划招募3-5个联席组�
   - 简介：社区CICD系统开发维护项目：https://docs.qq.com/doc/DRXl1U2FSZEl3SnRT
   - 负责人：吴德胜
   - 代码仓：https://gitee.com/opencloudos-stream/cicd.git
-- OpenCloudOS-IV（TODO）
+- OpenCloudOS-IV
   - 简介：OpenCloudOS集成验证（Integrated Verification）项目
   - 负责人：温业海
   - 代码仓：https://gitee.com/opencloudos-stream/test-ltp-full.git
-- OpenCloudOS-HCT（TODO）
+- OpenCloudOS-HCT
   - 简介：OpenCloudOS硬件兼容性测试（Hardware Compatibility Testing）项目
   - 负责人：吴德胜
   - 代码仓：https://gitee.com/opencloudos-stream/oc-hct.git
